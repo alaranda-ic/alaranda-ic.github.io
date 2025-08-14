@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2NPXYZR8E4.com.irvinecompany.icac.sgt",
+        "paths": [
+          "NOT /_/*",
+          "/deep-links/*"
+        ]
+      }
+    ]
+  }
+}
